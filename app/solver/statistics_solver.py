@@ -1,0 +1,1 @@
+"""Statistics solver integration point."""

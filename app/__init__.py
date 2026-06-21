@@ -1,0 +1,1 @@
+"""Exam AI application package."""
